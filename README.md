@@ -1,2 +1,2 @@
-# android
-哈希世界游戏官方网站前后端源码
+# web
+official website
